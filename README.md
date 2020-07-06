@@ -1,10 +1,10 @@
 My Leetcode Solutions
 
-I have solved **37   /   1375** problems while there are **218** problems still locked.
+I have solved **52   /   1375** problems while there are **218** problems still locked.
 
 Language: Python
 
-Update time:  2020-07-06 08:35:59
+Update time:  2020-07-06 11:48:07
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -152,7 +152,7 @@ Update time:  2020-07-06 08:35:59
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)||[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Medium|
-|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
+|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Hard|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
@@ -670,7 +670,7 @@ Update time:  2020-07-06 08:35:59
 |739|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)||[:memo:](https://leetcode.com/articles/daily-temperatures/)|Medium|
 |740|[delete-and-earn](https://leetcode.com/problems/delete-and-earn)||[:memo:](https://leetcode.com/articles/delete-and-earn/)|Medium|
 |741|[cherry-pickup](https://leetcode.com/problems/cherry-pickup)||[:memo:](https://leetcode.com/articles/cherry-pickup/)|Hard|
-|742|[to-lower-case](https://leetcode.com/problems/to-lower-case)||[:memo:](https://leetcode.com/articles/to-lower-case/)|Easy|
+|742|[to-lower-case](https://leetcode.com/problems/to-lower-case)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/742-to-lower-case/to-lower-case.py)|[:memo:](https://leetcode.com/articles/to-lower-case/)|Easy|
 |743|[closest-leaf-in-a-binary-tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/closest-leaf-in-binary-tree/)|Medium|
 |744|[network-delay-time](https://leetcode.com/problems/network-delay-time)||[:memo:](https://leetcode.com/articles/network-delay-time/)|Medium|
 |745|[find-smallest-letter-greater-than-target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)||[:memo:](https://leetcode.com/articles/find-smallest-letter-greater-than-target/)|Easy|
@@ -753,7 +753,7 @@ Update time:  2020-07-06 08:35:59
 |822|[unique-morse-code-words](https://leetcode.com/problems/unique-morse-code-words)||[:memo:](https://leetcode.com/articles/unique-morse-code-words/)|Easy|
 |823|[split-array-with-same-average](https://leetcode.com/problems/split-array-with-same-average)||[:memo:](https://leetcode.com/articles/split-array-with-same-average/)|Hard|
 |824|[number-of-lines-to-write-string](https://leetcode.com/problems/number-of-lines-to-write-string)||[:memo:](https://leetcode.com/articles/number-of-lines-to-write-string/)|Easy|
-|825|[max-increase-to-keep-city-skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)||[:memo:](https://leetcode.com/articles/max-increase-to-keep-city-skyline/)|Medium|
+|825|[max-increase-to-keep-city-skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/825-max-increase-to-keep-city-skyline/max-increase-to-keep-city-skyline.py)|[:memo:](https://leetcode.com/articles/max-increase-to-keep-city-skyline/)|Medium|
 |826|[soup-servings](https://leetcode.com/problems/soup-servings)||[:memo:](https://leetcode.com/articles/soup-servings/)|Medium|
 |827|[expressive-words](https://leetcode.com/problems/expressive-words)||[:memo:](https://leetcode.com/articles/expressive-words/)|Medium|
 |828|[chalkboard-xor-game](https://leetcode.com/problems/chalkboard-xor-game)||[:memo:](https://leetcode.com/articles/chalkboard-xor-game/)|Hard|
@@ -994,7 +994,7 @@ Update time:  2020-07-06 08:35:59
 |1075|[index-pairs-of-a-string](https://leetcode.com/problems/index-pairs-of-a-string)|:lock:||Easy|
 |1076|[brace-expansion](https://leetcode.com/problems/brace-expansion)|:lock:||Medium|
 |1077|[confusing-number-ii](https://leetcode.com/problems/confusing-number-ii)|:lock:||Hard|
-|1078|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|||Easy|
+|1078|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1078-remove-outermost-parentheses/remove-outermost-parentheses.py)||Easy|
 |1079|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|||Easy|
 |1080|[camelcase-matching](https://leetcode.com/problems/camelcase-matching)|||Medium|
 |1081|[video-stitching](https://leetcode.com/problems/video-stitching)|||Medium|
@@ -1115,7 +1115,7 @@ Update time:  2020-07-06 08:35:59
 |1228|[minimum-cost-tree-from-leaf-values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||Medium|
 |1229|[shortest-path-with-alternating-colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)|||Medium|
 |1230|[maximum-of-absolute-value-expression](https://leetcode.com/problems/maximum-of-absolute-value-expression)|||Medium|
-|1231|[replace-elements-with-greatest-element-on-right-side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)|||Easy|
+|1231|[replace-elements-with-greatest-element-on-right-side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1231-replace-elements-with-greatest-element-on-right-side/replace-elements-with-greatest-element-on-right-side.py)||Easy|
 |1232|[sum-of-mutated-array-closest-to-target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target)|||Medium|
 |1233|[number-of-ships-in-a-rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle)|:lock:||Hard|
 |1234|[number-of-paths-with-max-score](https://leetcode.com/problems/number-of-paths-with-max-score)|||Hard|
@@ -1180,7 +1180,7 @@ Update time:  2020-07-06 08:35:59
 |1331|[path-with-maximum-gold](https://leetcode.com/problems/path-with-maximum-gold)|||Medium|
 |1332|[count-vowels-permutation](https://leetcode.com/problems/count-vowels-permutation)|||Hard|
 |1337|[design-skiplist](https://leetcode.com/problems/design-skiplist)|||Hard|
-|1341|[split-a-string-in-balanced-strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)|||Easy|
+|1341|[split-a-string-in-balanced-strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1341-split-a-string-in-balanced-strings/split-a-string-in-balanced-strings.py)||Easy|
 |1342|[queens-that-can-attack-the-king](https://leetcode.com/problems/queens-that-can-attack-the-king)|||Medium|
 |1343|[dice-roll-simulation](https://leetcode.com/problems/dice-roll-simulation)|||Medium|
 |1344|[maximum-equal-frequency](https://leetcode.com/problems/maximum-equal-frequency)|||Hard|
@@ -1200,7 +1200,7 @@ Update time:  2020-07-06 08:35:59
 |1371|[minimum-remove-to-make-valid-parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)||[:memo:](https://leetcode.com/articles/minimum-remove-to-make-valid-parentheses/)|Medium|
 |1372|[check-if-it-is-a-good-array](https://leetcode.com/problems/check-if-it-is-a-good-array)|||Hard|
 |1374|[leftmost-column-with-at-least-a-one](https://leetcode.com/problems/leftmost-column-with-at-least-a-one)|:lock:|[:memo:](https://leetcode.com/articles/leftmost-column-with-a-at-least-a-one/)|Medium|
-|1378|[cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|||Easy|
+|1378|[cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1378-cells-with-odd-values-in-a-matrix/cells-with-odd-values-in-a-matrix.py)||Easy|
 |1379|[reconstruct-a-2-row-binary-matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix)|||Medium|
 |1380|[number-of-closed-islands](https://leetcode.com/problems/number-of-closed-islands)|||Medium|
 |1381|[maximum-score-words-formed-by-letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters)|||Hard|
@@ -1225,11 +1225,11 @@ Update time:  2020-07-06 08:35:59
 |1411|[convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)|||Easy|
 |1413|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)|||Medium|
 |1414|[shortest-path-in-a-grid-with-obstacles-elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)|||Hard|
-|1421|[find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|||Easy|
+|1421|[find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1421-find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.py)||Easy|
 |1422|[divide-array-in-sets-of-k-consecutive-numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers)|||Medium|
 |1423|[maximum-number-of-occurrences-of-a-substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring)|||Medium|
 |1424|[maximum-candies-you-can-get-from-boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes)|||Hard|
-|1426|[find-n-unique-integers-sum-up-to-zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero)|||Easy|
+|1426|[find-n-unique-integers-sum-up-to-zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1426-find-n-unique-integers-sum-up-to-zero/find-n-unique-integers-sum-up-to-zero.py)||Easy|
 |1427|[all-elements-in-two-binary-search-trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)||[:memo:](https://leetcode.com/articles/all-elements-in-two-bsts/)|Medium|
 |1428|[jump-game-iii](https://leetcode.com/problems/jump-game-iii)|||Medium|
 |1429|[verbal-arithmetic-puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle)|||Hard|
@@ -1246,7 +1246,7 @@ Update time:  2020-07-06 08:35:59
 |1445|[number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)|||Medium|
 |1446|[angle-between-hands-of-a-clock](https://leetcode.com/problems/angle-between-hands-of-a-clock)||[:memo:](https://leetcode.com/articles/angle-between-hands-of-a-clock/)|Medium|
 |1447|[jump-game-iv](https://leetcode.com/problems/jump-game-iv)|||Hard|
-|1448|[maximum-69-number](https://leetcode.com/problems/maximum-69-number)|||Easy|
+|1448|[maximum-69-number](https://leetcode.com/problems/maximum-69-number)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1448-maximum-69-number/maximum-69-number.py)||Easy|
 |1449|[print-words-vertically](https://leetcode.com/problems/print-words-vertically)|||Medium|
 |1450|[delete-leaves-with-a-given-value](https://leetcode.com/problems/delete-leaves-with-a-given-value)|||Medium|
 |1451|[minimum-number-of-taps-to-open-to-water-a-garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden)|||Hard|
@@ -1270,7 +1270,7 @@ Update time:  2020-07-06 08:35:59
 |1473|[find-the-longest-substring-containing-vowels-in-even-counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts)|||Medium|
 |1474|[longest-zigzag-path-in-a-binary-tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)|||Medium|
 |1475|[maximum-sum-bst-in-binary-tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)|||Hard|
-|1476|[count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)|||Easy|
+|1476|[count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1476-count-negative-numbers-in-a-sorted-matrix/count-negative-numbers-in-a-sorted-matrix.py)||Easy|
 |1477|[product-of-the-last-k-numbers](https://leetcode.com/problems/product-of-the-last-k-numbers)|||Medium|
 |1478|[maximum-number-of-events-that-can-be-attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended)|||Medium|
 |1479|[construct-target-array-with-multiple-sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums)||[:memo:](https://leetcode.com/articles/construct-target-array-with-multiple-sums/)|Hard|
@@ -1294,7 +1294,7 @@ Update time:  2020-07-06 08:35:59
 |1501|[circle-and-rectangle-overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping)|||Medium|
 |1502|[construct-k-palindrome-strings](https://leetcode.com/problems/construct-k-palindrome-strings)|||Medium|
 |1503|[reducing-dishes](https://leetcode.com/problems/reducing-dishes)|||Hard|
-|1505|[create-target-array-in-the-given-order](https://leetcode.com/problems/create-target-array-in-the-given-order)|||Easy|
+|1505|[create-target-array-in-the-given-order](https://leetcode.com/problems/create-target-array-in-the-given-order)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1505-create-target-array-in-the-given-order/create-target-array-in-the-given-order.py)||Easy|
 |1507|[check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)|||Medium|
 |1508|[longest-happy-prefix](https://leetcode.com/problems/longest-happy-prefix)|||Hard|
 |1510|[find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)||[:memo:](https://leetcode.com/articles/find-lucky-integer-in-an-array/)|Easy|
@@ -1309,7 +1309,7 @@ Update time:  2020-07-06 08:35:59
 |1520|[number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)|||Medium|
 |1522|[stone-game-iii](https://leetcode.com/problems/stone-game-iii)|||Hard|
 |1524|[string-matching-in-an-array](https://leetcode.com/problems/string-matching-in-an-array)|||Easy|
-|1525|[queries-on-a-permutation-with-key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|||Medium|
+|1525|[queries-on-a-permutation-with-key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1525-queries-on-a-permutation-with-key/queries-on-a-permutation-with-key.py)||Medium|
 |1526|[html-entity-parser](https://leetcode.com/problems/html-entity-parser)|||Medium|
 |1527|[number-of-ways-to-paint-n-3-grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid)|||Hard|
 |1528|[kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1528-kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.py)||Easy|
@@ -1339,7 +1339,7 @@ Update time:  2020-07-06 08:35:59
 |1557|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)|||Medium|
 |1558|[course-schedule-iv](https://leetcode.com/problems/course-schedule-iv)|||Medium|
 |1559|[cherry-pickup-ii](https://leetcode.com/problems/cherry-pickup-ii)|||Hard|
-|1560|[number-of-students-doing-homework-at-a-given-time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|||Easy|
+|1560|[number-of-students-doing-homework-at-a-given-time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1560-number-of-students-doing-homework-at-a-given-time/number-of-students-doing-homework-at-a-given-time.py)||Easy|
 |1561|[rearrange-words-in-a-sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence)|||Medium|
 |1562|[people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list)|||Medium|
 |1563|[maximum-number-of-darts-inside-of-a-circular-dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard)|||Hard|
@@ -1351,7 +1351,7 @@ Update time:  2020-07-06 08:35:59
 |1571|[allocate-mailboxes](https://leetcode.com/problems/allocate-mailboxes)|||Hard|
 |1572|[subrectangle-queries](https://leetcode.com/problems/subrectangle-queries)|||Medium|
 |1573|[find-two-non-overlapping-sub-arrays-each-with-target-sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|||Medium|
-|1574|[maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)|||Easy|
+|1574|[maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1574-maximum-product-of-two-elements-in-an-array/maximum-product-of-two-elements-in-an-array.py)||Easy|
 |1575|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|||Medium|
 |1576|[reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|||Medium|
 |1577|[probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|||Hard|
@@ -1377,7 +1377,7 @@ Update time:  2020-07-06 08:35:59
 |1621|[number-of-subsequences-that-satisfy-the-given-sum-condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition)|||Medium|
 |1622|[max-value-of-equation](https://leetcode.com/problems/max-value-of-equation)|||Hard|
 |1624|[clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer)|:lock:||Medium|
-|1626|[can-make-arithmetic-progression-from-sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)|||Easy|
+|1626|[can-make-arithmetic-progression-from-sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1626-can-make-arithmetic-progression-from-sequence/can-make-arithmetic-progression-from-sequence.py)||Easy|
 |1627|[last-moment-before-all-ants-fall-out-of-a-plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank)|||Medium|
 |1628|[count-submatrices-with-all-ones](https://leetcode.com/problems/count-submatrices-with-all-ones)|||Medium|
 |1629|[minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits)|||Hard|
