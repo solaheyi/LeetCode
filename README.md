@@ -1,10 +1,10 @@
 My Leetcode Solutions
 
-I have solved **54   /   1375** problems while there are **218** problems still locked.
+I have solved **58   /   1375** problems while there are **218** problems still locked.
 
 Language: Python
 
-Update time:  2020-07-06 13:18:45
+Update time:  2020-07-06 14:07:27
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -62,11 +62,11 @@ Update time:  2020-07-06 13:18:45
 |52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii)||[:memo:](https://leetcode.com/articles/n-queens-ii/)|Hard|
 |53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/053-maximum-subarray/maximum-subarray.py)|[:memo:](https://leetcode.com/articles/maximum-subarray/)|Easy|
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/054-spiral-matrix/spiral-matrix.py)|[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
-|55|[jump-game](https://leetcode.com/problems/jump-game)||[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
-|56|[merge-intervals](https://leetcode.com/problems/merge-intervals)||[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
-|57|[insert-interval](https://leetcode.com/problems/insert-interval)||[:memo:](https://leetcode.com/articles/insert-interval/)|Hard|
+|55|[jump-game](https://leetcode.com/problems/jump-game)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/055-jump-game/jump-game.py)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
+|56|[merge-intervals](https://leetcode.com/problems/merge-intervals)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/056-merge-intervals/merge-intervals.py)|[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
+|57|[insert-interval](https://leetcode.com/problems/insert-interval)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/057-insert-interval/insert-interval.py)|[:memo:](https://leetcode.com/articles/insert-interval/)|Hard|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/058-length-of-last-word/length-of-last-word.py)|[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
-|59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
+|59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/059-spiral-matrix-ii/spiral-matrix-ii.py)||Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)||[:memo:](https://leetcode.com/articles/permutation-sequence/)|Medium|
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)||[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)||[:memo:](https://leetcode.com/articles/unique-paths/)|Medium|
