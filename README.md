@@ -1,10 +1,10 @@
 My Leetcode Solutions
 
-I have solved **61   /   1375** problems while there are **218** problems still locked.
+I have solved **67   /   1375** problems while there are **218** problems still locked.
 
 Language: Python
 
-Update time:  2020-07-07 11:43:31
+Update time:  2020-07-07 22:57:08
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -71,18 +71,18 @@ Update time:  2020-07-07 11:43:31
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)||[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/062-unique-paths/unique-paths.py)|[:memo:](https://leetcode.com/articles/unique-paths/)|Medium|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)||[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
-|64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
-|65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
+|64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/064-minimum-path-sum/minimum-path-sum.py)|[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
+|65|[valid-number](https://leetcode.com/problems/valid-number)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/065-valid-number/valid-number.py)||Hard|
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/066-plus-one/plus-one.py)|[:memo:](https://leetcode.com/articles/plus-one/)|Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/067-add-binary/add-binary.py)|[:memo:](https://leetcode.com/articles/add-binary/)|Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)||[:memo:](https://leetcode.com/articles/sqrtx/)|Easy|
-|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)||[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
+|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/070-climbing-stairs/climbing-stairs.py)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)||[:memo:](https://leetcode.com/articles/simplify-path/)|Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)||[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
-|74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)||[:memo:](https://leetcode.com/articles/search-in-2d-matrix/)|Medium|
-|75|[sort-colors](https://leetcode.com/problems/sort-colors)||[:memo:](https://leetcode.com/articles/sort-colors/)|Medium|
+|74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/074-search-a-2d-matrix/search-a-2d-matrix.py)|[:memo:](https://leetcode.com/articles/search-in-2d-matrix/)|Medium|
+|75|[sort-colors](https://leetcode.com/problems/sort-colors)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/075-sort-colors/sort-colors.py)|[:memo:](https://leetcode.com/articles/sort-colors/)|Medium|
 |76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)||[:memo:](https://leetcode.com/articles/minimum-window-substring/)|Hard|
 |77|[combinations](https://leetcode.com/problems/combinations)||[:memo:](https://leetcode.com/articles/combinations/)|Medium|
 |78|[subsets](https://leetcode.com/problems/subsets)||[:memo:](https://leetcode.com/articles/subsets/)|Medium|
@@ -447,7 +447,7 @@ Update time:  2020-07-07 11:43:31
 |460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|||Hard|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/461-hamming-distance/hamming-distance.py)|[:memo:](https://leetcode.com/articles/hamming-distance/)|Easy|
 |462|[minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements-ii/)|Medium|
-|463|[island-perimeter](https://leetcode.com/problems/island-perimeter)||[:memo:](https://leetcode.com/articles/island-perimeter/)|Easy|
+|463|[island-perimeter](https://leetcode.com/problems/island-perimeter)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/463-island-perimeter/island-perimeter.py)|[:memo:](https://leetcode.com/articles/island-perimeter/)|Easy|
 |464|[can-i-win](https://leetcode.com/problems/can-i-win)|||Medium|
 |465|[optimal-account-balancing](https://leetcode.com/problems/optimal-account-balancing)|:lock:||Hard|
 |466|[count-the-repetitions](https://leetcode.com/problems/count-the-repetitions)||[:memo:](https://leetcode.com/articles/count-the-repetitions/)|Hard|
