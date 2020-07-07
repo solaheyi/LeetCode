@@ -1,10 +1,10 @@
 My Leetcode Solutions
 
-I have solved **60   /   1375** problems while there are **218** problems still locked.
+I have solved **61   /   1375** problems while there are **218** problems still locked.
 
 Language: Python
 
-Update time:  2020-07-07 11:34:30
+Update time:  2020-07-07 11:43:31
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -1347,7 +1347,7 @@ Update time:  2020-07-07 11:34:30
 |1567|[maximum-number-of-vowels-in-a-substring-of-given-length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)|||Medium|
 |1568|[pseudo-palindromic-paths-in-a-binary-tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree)|||Medium|
 |1569|[max-dot-product-of-two-subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences)|||Hard|
-|1570|[final-prices-with-a-special-discount-in-a-shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)|||Easy|
+|1570|[final-prices-with-a-special-discount-in-a-shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)|[Python](https://github.com/solaheyi/LeetCode/blob/master/solutions/1570-final-prices-with-a-special-discount-in-a-shop/final-prices-with-a-special-discount-in-a-shop.py)||Easy|
 |1571|[allocate-mailboxes](https://leetcode.com/problems/allocate-mailboxes)|||Hard|
 |1572|[subrectangle-queries](https://leetcode.com/problems/subrectangle-queries)|||Medium|
 |1573|[find-two-non-overlapping-sub-arrays-each-with-target-sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|||Medium|
