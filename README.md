@@ -4,7 +4,7 @@ I have solved **75   /   1473** problems while there are **232** problems still 
 
 Language: Python
 
-Update time:  2020-10-14 15:14:46
+Update time:  2020-10-14 15:21:41
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
