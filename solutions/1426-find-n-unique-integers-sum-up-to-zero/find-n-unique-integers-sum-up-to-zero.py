@@ -32,6 +32,7 @@
 #
 # 	1 <= n <= 1000
 #
+#
 
 
 class Solution(object):
